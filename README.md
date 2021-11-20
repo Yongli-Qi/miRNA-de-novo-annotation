@@ -7,7 +7,7 @@ SYNOPSIS:
 USAGE: 
     python miRNA_de_novo_annotation.py [three-letter abbreviation of species name] [reads]
 
-Core OUTPUT FILE:
+CORE OUTPUT FILE:
     info6.txt 
     
       The file info6.txt is a plain-text tab-delimited file that contains the core results of the analysis.
