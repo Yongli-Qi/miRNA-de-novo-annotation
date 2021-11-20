@@ -1,0 +1,32 @@
+A total of 107 small RNA-seq libraries from four different poplar 
+species (Populus deltoides, Populus euphratica, Populus tremula, 
+and Populus trichocarpa) were comprehensively analyzed by using this
+python scripts.
+
+The sample ID were described below:
+    Populus deltoides:
+      SRR10398907-17
+      SRR7525690-98
+      SRR11625356-73
+    Populus euphratica:
+      SRR3747766-74
+      SRR6356670-78
+      SRR6359093-100
+      SRR7945071-81
+    Populus tremula:
+      SRR11575078-83
+      SRR11575708-19
+    Populus trichocarpa:
+      SRR7525699-707
+      GSM717875-77
+
+As a result, 142, 153, 157, and 153 miRNA loci were de novo identified 
+successively in P. deltoides, P. euphratica, P. tremula, and P. trichocarpa, 
+respectively.
+
+Interestingly, the length distribution of identified miRNAs was between 20 and 24 nt, 
+with the peak at 21 nt. A significant bias towards U (67.4%) was observed in the first
+nucleotides of miRNA sequences.
+
+The same method was used in miRNA identification in Ginkgo, Taxus and Amygdalus 
+and achieved credible results.
